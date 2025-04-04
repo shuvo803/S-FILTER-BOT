@@ -491,11 +491,11 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
  எப்படி மற்றும் என்ன செய்ய வேண்டும்
 
- படி 1: இந்த VJ-FILTER-BOT போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
+ படி 1: இந்த MOVIE SEARCH BOT போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
- Exp: /shortlink xtz.in 4b392f8eb6ad711fbe58
+ Exp: /shortlink modijiurl.com 8c082f290e876fc34f1ab066c4775c44a1dedead
 
  வீடியோவைச் சேர்க்கவும்
 
@@ -518,11 +518,11 @@ Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a>
 
  How and what to do
 
- Step 1: Administer this VJ-FILTER-BOT bot to your group
+ Step 1: Administer this MOVIE SEARCH BOT bot to your group
 
  Step 2: Add your website and API
 
- Exp: /shortlink xtz.in 4b392f8eb6ad711fbe58
+ Exp: /shortlink modijiurl.com 8c082f290e876fc34f1ab066c4775c44a1dedead
 
  Add a video
 
@@ -545,7 +545,7 @@ Also your tutorial will be Added Your Group..."""
 
  ఎలా మరియు ఏమి చేయాలి
 
- దశ 1: ఈ VJ-FILTER-BOT బాట్‌ని మీ సమూహానికి నిర్వహించండి
+ దశ 1: ఈ MOVIE SEARCH BOT బాట్‌ని మీ సమూహానికి నిర్వహించండి
 
  దశ 2: మీ వెబ్‌సైట్ మరియు APIని జోడించండి
 
@@ -576,7 +576,7 @@ Also your tutorial will be Added Your Group..."""
 
  चरण 2: अपनी वेबसाइट और एपीआई जोड़ें
 
- एक्सप: /shortlink xtz.in 4b392f8eb6ad711fbe58
+ एक्सप: /shortlink modijiurl.com 8c082f290e876fc34f1ab066c4775c44a1dedead
 
  एक वीडियो जोड़ें
 
@@ -705,11 +705,11 @@ Also your tutorial will be Added Your Group..."""
 
  কিভাবে এবং কি করতে হবে
 
- ধাপ 1: আপনার গ্রুপে এই VJ-FILTER-BOT বট পরিচালনা করুন
+ ধাপ 1: আপনার গ্রুপে এই MOVIE SEARCH BOT বট পরিচালনা করুন
 
  ধাপ 2: আপনার ওয়েবসাইট এবং API যোগ করুন
 
- মেয়াদ: /shortlink xtz.in 4b392f8eb6ad711fbe58
+ মেয়াদ: /shortlink modijiurl.com 8c082f290e876fc34f1ab066c4775c44a1dedead
 
  একটি ভিডিও যোগ করুন
 

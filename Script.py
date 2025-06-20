@@ -247,9 +247,9 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {caption_name}
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {caption_name}\n\n𝖩𝗈𝗂𝗇➥ 「@S_MovieChannel」</b>"""
 
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+ 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}

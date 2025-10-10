@@ -109,7 +109,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 <b>ɴᴏᴛᴇ:</b>
  <b>✯ Maintained by : <a href={}>Owner</a></b>
   
- <b>✯ Join here : <a href={}>Backup Channel</a></b> 
+ <b>✯ Join here : <a href={}>Update Channel</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -194,10 +194,8 @@ Nᴀᴍᴇ - {}"""
 ᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴛʜᴇ ʀᴇQᴜᴇꜱᴛ ᴀɢᴀɪɴ."""
 
     CUDNT_FND = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ғɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {} ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ,😥 ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ ᴏɴ ɢᴏᴏɢʟᴇ ᴡʜᴇᴛʜᴇʀ ᴛʜᴇ ɴᴀᴍᴇ ʏᴏᴜ ᴡʀᴏᴛᴇ ɪs ᴄᴏʀʀᴇᴄᴛ ᴏʀ ɴᴏᴛ. ɪғ ɪᴛ ɪs ᴄᴏʀʀᴇᴄᴛ ᴛʜᴇɴ ᴡᴀɪᴛ ᴏʀ ʀᴇǫᴜᴇsᴛ ᴛʜᴇ ᴍᴏᴠɪᴇ ɪɴ ᴛʜᴇ ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ. 
-
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ👉https://t.me/movie_group_02
-
-ᴡʜɪᴄʜ ᴏɴᴇ ᴏғ ᴛʜᴇsᴇ ᴀʀᴇ ʏᴏᴜ ᴛᴀʟᴋɪɴɢ ᴀʙᴏᴜᴛ?👇"""
+ᴅɪᴅ ʏᴏᴜ ᴍᴇᴀɴ ᴀɴʏ ᴏɴᴇ ᴏꜰ ᴛʜᴇꜱᴇ?"""
 
     I_CUDNT = """<b>sᴏʀʀʏ ɴᴏ ꜰɪʟᴇs ᴡᴇʀᴇ ꜰᴏᴜɴᴅ ꜰᴏʀ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ {} 😕
 
@@ -206,9 +204,10 @@ Nᴀᴍᴇ - {}"""
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
 ᴇxᴀᴍᴘʟᴇ : Uncharted or Uncharted 2022 
+
 ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
-ᴇxᴀᴍᴘʟᴇ : Squid Game S01 or Death Note S01 E04 
+ᴇxᴀᴍᴘʟᴇ : Squid Game S01 or Death Note S01 E04
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
 
@@ -246,9 +245,9 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {caption_name}\n\n𝖩𝗈𝗂𝗇➥ 「@S_MovieChannel」</b>"""
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
- 
+<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -336,7 +335,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
  ᴄᴏᴍᴍᴀɴᴅꜱ ᴀɴᴅ ᴜꜱᴀɢᴇ: 
   
  /covid - ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴡɪᴛʜ yᴏᴜʀ ᴄᴏᴜɴᴛʀy ɴᴀᴍᴇ ᴛᴏ ɢᴇᴛ ᴄᴏᴠɪᴅᴇ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ 
- ᴇxᴀᴍᴩʟᴇ:<code>/covid Bangladesh</code> 
+ ᴇxᴀᴍᴩʟᴇ:<code>/covid 𝖨𝗇𝖽𝗂𝖺</code> 
   
  ⚠️ ᴛʜɪꜱ ꜱᴇʀᴠɪᴄᴇ ʜᴀꜱ ʙᴇᴇɴ ꜱᴛᴏᴩᴩᴇᴅ 
   
@@ -719,8 +718,8 @@ Also your tutorial will be Added Your Group..."""
 
  মেয়াদ: /set_tutorial ভিডিও লিঙ্ক
 
-এছাড়াও আপনার দল ভিডিও সংগ্রহের প্রশিক্ষণ দেবে..."""   
- 
+এছাড়াও আপনার দল ভিডিও সংগ্রহের প্রশিক্ষণ দেবে..."""
+
     RENAME_TXT = """
 🌌 <b><u>HOW TO SET THUMBNAIL</u></b>
   
@@ -751,10 +750,3 @@ Example:- /set_caption 📕 File Name: {filename}
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
-
-
-    
-
-
-
-

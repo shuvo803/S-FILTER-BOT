@@ -245,7 +245,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {caption_name}
 
 <b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
@@ -750,3 +750,4 @@ Example:- /set_caption 📕 File Name: {filename}
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
